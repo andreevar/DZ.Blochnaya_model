@@ -1,0 +1,33 @@
+body, h2, p{
+margin: 0;
+padding: 0;
+}
+
+body{
+    font-size: 18px;
+}
+
+#header{
+    background-color: aquamarine;
+    font-size: 20px;
+}
+
+#sidebar{
+    background-color: blanchedalmond;
+    float: left;
+    width: 150px;
+}
+
+#main{
+    background-color: rgb(171, 125, 213);
+    margin-left: 150px;
+    padding: 20px;
+}
+
+#footer{
+    background-color: rgb(177, 177, 217);
+}
+
+#wrapper{
+    background-color: blanchedalmond;
+}
