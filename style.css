@@ -1,0 +1,72 @@
+h2{
+    font-size: xx-large;
+}
+
+.linear-gradient{
+    width: 500px;
+    height: 500px;
+    margin-left: 100px;
+    background-image: -webkit-linear-gradient(top, red, blue);
+    border: 1px solid black;
+}
+
+
+.radial-gradient{
+    width: 500px;
+    height: 500px;
+    margin-left: 100px;
+    background-image: -webkit-radial-gradient(yellow, green);
+    border: 1px solid black;
+    font-size: 50px;
+}
+
+
+#header{
+    background-color: aquamarine;
+    font-size: 50px;
+}
+
+#sidebar{
+    font-size: 50px;
+    background-color: blanchedalmond;
+    float: left;
+    width: 170px;
+}
+
+#main{
+    font-size: 50px;
+    background-color: blueviolet;
+    margin-left: 170px;
+}
+
+#footer{
+    font-size: 50px;
+    background-color: blue;
+}
+
+#header1{
+    font-size: 50px;
+    background-color: beige;
+}
+
+#leftSidebar{
+    font-size: 50px;
+    background-color: cornflowerblue;
+    float: left;
+}
+
+#rightSidebar{
+    font-size: 50px;
+    background-color: cornflowerblue;
+    float: right;
+}
+
+#main1{
+    font-size: 50px;
+    background-color: brown;
+}
+
+#footer1{
+    font-size: 50px;
+    background-color: rgb(59, 59, 82);
+}
